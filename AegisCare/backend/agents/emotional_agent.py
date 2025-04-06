@@ -1,0 +1,1 @@
+# Provides emotional support via voice interaction
